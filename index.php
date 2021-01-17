@@ -10,6 +10,9 @@
 <body>
     <h1>Coba Git Remote</h1>
     <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dicta corrupti facilis fuga maxime. Quas, minus, illum consectetur aut quos vitae numquam quo quaerat repudiandae maxime sunt quidem molestiae maiores fugiat?</p>
+    <ul>
+        <li>Aldin Mubarok</li>
+    </ul>
 </body>
 
 </html>
